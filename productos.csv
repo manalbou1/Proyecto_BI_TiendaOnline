@@ -1,0 +1,6 @@
+,producto_id,nombre,categoría,marca
+0,101,Camiseta,Ropa,MarcaA
+1,102,Pantalón,Ropa,MarcaB
+2,103,Zapatos,Calzado,MarcaC
+3,104,Bolso,Accesorios,MarcaD
+4,105,Sombrero,Accesorios,MarcaE
